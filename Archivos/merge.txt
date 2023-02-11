@@ -1,3 +1,5 @@
 Maria Fernanda Calle Agudelo
 19
 Aprender los conceptos sobre la programación orientada a objetos y sus aplicaciones
+Porque ya hay un archivo en la carpeta
+Es importante porque se pueden generar conflictos entre las distintas versiones del archivo
